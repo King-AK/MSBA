@@ -1,0 +1,24 @@
+Optimization Reading
+
+1. What is the problem being solved?
+2. What is the key metric used in the analysis? ROOA and EVA
+3. What makes this problem difficult?
+4. How was the problem simplified? section 1.3
+5. What causes demand to be something other than a steady, level volume
+
+Notes:
+	-Managers often address capacity and inventory seperately. They ignore the interaction between the two within a manufacturing system.
+	-Seperating the two tasks can lead to an imbalance with investment. 
+	-How much capacity to install and how much inventory to hold? Various factors including seasonal demand which complicates the decision.
+	-Seasonal Peaks and End of Quarter Hockey Sticks
+	-Hockey stick pattern occuring as a result of business practices and customers anticipating end of quarter deals.
+	-As the costs of capactity investment increases relative to the cost of inventory a manufacturing system should rely less on capacity and more on inventory.
+	-inventory and capacity tradeoff: having a greater level of one of these assets can be useful for reducing reliance upon the other.
+	-In the firms examined in the article, the decision making process often resulted in capacity being fixed at a minimum level while inventory is used to respond to demand uncertainty and seasonality. 
+	-suboptimal return on assets occured as a result overproduction and high inventory hold costs due to companies building up on inventories during times of low demand.
+	-Hierarchical decision making processes motivate the seperation of capactiy and inventory decisions. Responsibility for decisions are spread out through the organization. Upper level managers make capacity decisions and lower level managers make production level decisions
+	-ROOA(Return on Operating Assets) Model used to measure the performance of plant assets. Economic Value Added (EVA) also maximized with the formula.
+	-Modular structure for the model which allows it to be easily adapted to a wide variety of maufacturing processes.
+	-use of an iterative algorithm to solve for the optimal ROOA solution, EVA(c). Cannot be used directly to optimize. It instead converges to the optimum. An upper bound on the ROOA can be found from EVA(c) and be used to terminate the iterative algorithm when the solution is within the desired tolerance. 
+	-A portion of the forecasted demand could be produced at a point in time closer to the realization of demand when the  level of demand is more certain.
+	-Instead of always prebuilding the least expensive products into inventory, a plant should prebuild the products that have the lowest ratio of value to processing time.

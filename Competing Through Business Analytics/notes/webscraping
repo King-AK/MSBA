@@ -1,0 +1,29 @@
+Data/Web scraping Notes
+
+APIs(Application Programming Interfaces)
+HTML, XML, JSON
+Web Scraping ethics
+	-Crashing/overloading servers
+
+Propietary Data
+	-transactional databases, ERP(enterprise resource planning) databases
+	-need for speed and reliability
+	-formatted for transatctions and dedicated to one application
+Propietary Databases
+	-DB Software
+	-Managing DBs (front end data managers programs, doing it programatically with things like Python, Java or C#)
+	-Data Warehouse
+		-Contains data extracted from the transactional DB and other data
+		-formatted for analytics by many applciations
+		-seperate from transactional DB
+		-dont want to have analyrics interfere with business transactions
+Purchased Data
+	-marry propietary with purchased data to increase value of analytics results
+Freely Available Data from the Internet
+	-not usually heavily relied on, but its importance is increasing as time goes by
+Web Scraping
+	-obtaining data programmatically from the Internet, not with anyones instructions. 
+
+XML 
+	-Structure: hierarchical with a root element. Tag names. 
+	-DTD(document type definition) is used to enforce standards with XML.They specifiy the required or optional elements, and the allowable number of sub-elements.

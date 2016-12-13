@@ -1,0 +1,21 @@
+Verizon Speaker Notes
+	-network technology has evolved and changed over time. More features on devices, more information to collect on customers through the use of apps.
+	-Data Science Manager typical day schedule: majority of time going to Leadership interaction and team discussion (40%). 10% data gathering, 10% excel analysis, 10% tableau analysis, and progressivley less from there on other endeavors. Only 5% of the time spent learning.
+	-Expertise in excel, Lynda, online tuts
+	-Done is better than perfect. Focus on the right problem, be ready to question results and alter them afterwards. Focus on logic and identify the relevant data.  Be clear, simple and precise in your communiications. 
+	-Getting results more important than extreme accuracy
+
+
+Weekend work besides Voter Anlaysis 2
+	-lessons learned, automate this, analytics research assignment
+	-try to knock out Automate this and analytics research assignment on saturday and get a start on the lessons learned
+
+
+Do a match between the 141 counties state and county and the Obama V Romney States and counties, post yes if match. On matches, recalculate the vote, for others, just move it accross.
+
+Worst Case analysis: Obama still wins the popular vote
+	-worth noting that president is decided with electoral college. So this may not even be the right question to ask.
+	-No missing data as far as worst case analysis concerned
+	-problem of electoral college. More fine tuning must be done to get these calculations done.
+
+	

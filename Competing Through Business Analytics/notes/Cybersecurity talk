@@ -1,0 +1,16 @@
+Cyber Security Challenges:
+	-growth in the importance of software
+	-more code = more risk of vulnerabilities, more surface/chances to attack
+	-coding security standards. Protect against vulnerabilities
+	-Built in design weaknesses in software (Drone GPS rolleover example in Afghanistan)
+	-Supply chain risks with software development. Spliting up work at DoD has an effect on security with programs, department intercommunication and standards get harder to meet with security as work is split up more and more? Plus people only work with the money they are allotted. Budget focused on "how to make something work" not "is something safe or secure"
+		Supply Chain risks can include:
+		-disruption of supply, inventory, and schedule
+		-counterfeiting and inclusion of non-authentic items in inventory or as parts/components of the items in inventory
+		-Lacking intercommunication
+		-Critical dependencies on certain parts of the system which if all software, can make people oblivious to a failure elsewhere in the system
+		-Software race conditions 
+		-Insider Attack
+		-Coordinated outside attacks
+
+	-Use of metrics when pulling data to measure effectiveness of security measures by companies and their supply chains
