@@ -1,0 +1,12 @@
+RStudio Notes
+	-export query as csv from MySQL, (right above console)
+	-open RStudio, navigate to file on latop, read in csv file with read.csv() in R console to a local variable
+	-Can use the file.choose() method inside of read.csv()
+		read.csv(file.choose())
+	to make shit a lot easier on yourself
+	-can use View() on the local variable to generate a table of the CSV in RStudio
+	-can install libraries in lower right hand window under "Packages". INstall and check to run the library
+	-use dbConnect() function to establish a connect to the MySQL server, attach dbname, username, password.
+	-dbConnection allows you to write sql queries from R
+	-dbGetQuery() to get SQL queries done in R
+	-dplyr is a way to write things in R and then have it translated into SQL and sent over. Its a series of R functions that lets you write up a SQL querie with R syntax
