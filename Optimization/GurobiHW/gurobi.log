@@ -1,0 +1,1699 @@
+
+Gurobi 6.5.2 (win64) logging started 10/03/16 09:59:14
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 3 rows, 3 columns and 7 nonzeros
+Coefficient statistics:
+  Matrix range    [2e+00, 9e+00]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+02, 5e+02]
+Presolve time: 0.00s
+Presolved: 3 rows, 3 columns, 7 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.4000000e+32   4.937500e+30   1.400000e+02      0s
+       4    2.9375000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 4 iterations and 0.01 seconds
+Optimal objective  2.937500000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/03/16 10:01:22
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 4 rows, 3 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 9e+00]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+01, 5e+02]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.01s
+Presolved: 3 rows, 3 columns, 7 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.7543200e+03   6.094091e+01   0.000000e+00      0s
+       3    2.9047619e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  2.904761905e+03
+
+Gurobi 6.5.2 (win64) logging started 10/03/16 10:03:29
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 4 rows, 3 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 9e+00]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+01, 5e+02]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.00s
+Presolved: 3 rows, 3 columns, 7 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.7543200e+03   6.094091e+01   0.000000e+00      0s
+       3    2.9047619e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  2.904761905e+03
+
+Gurobi 6.5.2 (win64) logging started 10/03/16 21:40:08
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 3 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+00]
+  Objective range [2e+00, 5e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [8e+02, 2e+03]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.01s
+Presolved: 1 rows, 2 columns, 2 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.6000000e+03   2.500000e+02   0.000000e+00      0s
+       1    3.6000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 1 iterations and 0.02 seconds
+Optimal objective  3.600000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/03/16 21:43:20
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 2 rows, 3 columns and 5 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 5e-02]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+01, 4e+01]
+Presolve time: 0.01s
+Presolved: 2 rows, 3 columns, 5 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.6000000e+32   3.520000e+30   1.600000e+02      0s
+       2    6.1792727e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  6.179272727e+04
+
+Gurobi 6.5.2 (win64) logging started 10/03/16 22:05:17
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.02 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/03/16 22:29:11
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 9 rows and 15 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+
+Gurobi 6.5.2 (win64) logging started 10/03/16 22:30:08
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 9 rows and 15 columns
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+
+Gurobi 6.5.2 (win64) logging started 10/03/16 22:33:47
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.01 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/03/16 23:11:10
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 17 rows, 30 columns and 66 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [2e+02, 1e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 24 columns, 48 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.1750000e+03   2.498800e+01   0.000000e+00      0s
+       7    1.5100000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.02 seconds
+Optimal objective  1.510000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 09:35:43
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 2 rows, 3 columns and 5 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 5e-02]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+01, 4e+01]
+Presolve time: 0.01s
+Presolved: 2 rows, 3 columns, 5 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.6000000e+32   3.520000e+30   1.600000e+02      0s
+       2    6.1792727e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  6.179272727e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 09:36:00
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 17 rows, 30 columns and 66 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [2e+02, 1e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 24 columns, 48 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.1750000e+03   2.498800e+01   0.000000e+00      0s
+       7    1.5100000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.02 seconds
+Optimal objective  1.510000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 09:36:04
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.02 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 09:36:21
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 4 rows, 3 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 9e+00]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+01, 5e+02]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.00s
+Presolved: 3 rows, 3 columns, 7 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.7543200e+03   6.094091e+01   0.000000e+00      0s
+       3    2.9047619e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  2.904761905e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 10:28:04
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 4 rows, 3 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 9e+00]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+01, 5e+02]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.01s
+Presolved: 3 rows, 3 columns, 7 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.7543200e+03   6.094091e+01   0.000000e+00      0s
+       3    2.9047619e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  2.904761905e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 10:28:30
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 4 rows, 3 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 9e+00]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+01, 5e+02]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.01s
+Presolved: 3 rows, 3 columns, 7 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.7543200e+03   6.094091e+01   0.000000e+00      0s
+       3    2.9047619e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  2.904761905e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 10:32:16
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 3 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+00]
+  Objective range [2e+00, 5e+00]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [8e+02, 2e+03]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.01s
+Presolved: 1 rows, 2 columns, 2 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.6000000e+03   2.500000e+02   0.000000e+00      0s
+       1    3.6000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 1 iterations and 0.01 seconds
+Optimal objective  3.600000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 10:34:42
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 2 rows, 3 columns and 6 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 5e-02]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+01, 4e+01]
+Presolve time: 0.00s
+Presolved: 2 rows, 3 columns, 6 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.6000000e+32   4.160000e+30   1.600000e+02      0s
+       2    6.1818182e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  6.181818182e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 10:34:52
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 2 rows, 3 columns and 5 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 5e-02]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+01, 4e+01]
+Presolve time: 0.01s
+Presolved: 2 rows, 3 columns, 5 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.6000000e+32   3.520000e+30   1.600000e+02      0s
+       2    6.1792727e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  6.179272727e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 10:34:58
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 2 rows, 3 columns and 6 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 5e-02]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+01, 4e+01]
+Presolve time: 0.01s
+Presolved: 2 rows, 3 columns, 6 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.6000000e+32   4.160000e+30   1.600000e+02      0s
+       2    6.1818182e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.02 seconds
+Optimal objective  6.181818182e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 10:56:36
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:02:31
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:03:19
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:04:43
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:07:57
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:08:27
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:08:43
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:09:07
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:09:28
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:20:18
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:20:44
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [6e+02, 1e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.1000000e+04   4.600000e+01   0.000000e+00      0s
+       4    2.1700000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 4 iterations and 0.01 seconds
+Optimal objective  2.170000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:21:05
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:26:25
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.02 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:26:35
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.4500000e+04   4.600000e+01   0.000000e+00      0s
+       4    1.2550000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 4 iterations and 0.01 seconds
+Optimal objective  1.255000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:27:52
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:29:00
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:29:06
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:29:11
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:32:32
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:33:01
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:33:51
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:34:40
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:34:55
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:35:44
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:37:25
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:39:14
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:40:36
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:42:27
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:42:42
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:47:47
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:51:13
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   3.500000e+01   0.000000e+00      0s
+       3    8.2000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  8.200000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:51:53
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 7e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   2.900000e+01   0.000000e+00      0s
+       4    4.5000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 4 iterations and 0.01 seconds
+Optimal objective  4.500000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:52:38
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.02 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:52:49
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 7e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   2.900000e+01   0.000000e+00      0s
+       4    4.5000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 4 iterations and 0.01 seconds
+Optimal objective  4.500000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:53:30
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:53:37
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [4e+02, 7e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   2.900000e+01   0.000000e+00      0s
+       4    4.5000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 4 iterations and 0.01 seconds
+Optimal objective  4.500000000e+03
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:55:58
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:56:06
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.02 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:56:12
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:56:20
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 11:56:29
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:39:16
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+02, 8e+02]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [1e+01, 2e+01]
+Presolve time: 0.01s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.8500000e+04   3.400000e+01   0.000000e+00      0s
+       2    2.0200000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.02 seconds
+Optimal objective  2.020000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:39:35
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 2 rows, 3 columns and 6 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 5e-02]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+01, 4e+01]
+Presolve time: 0.01s
+Presolved: 2 rows, 3 columns, 6 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.6000000e+32   4.160000e+30   1.600000e+02      0s
+       2    6.1818182e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective  6.181818182e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:39:42
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:48:45
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.02 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:49:13
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.01 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:49:21
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.01s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.01 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:49:29
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.01 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:49:39
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.01s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.02 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:49:49
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.02 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:49:56
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.01s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.02 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 20:50:01
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.01 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 21:05:44
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 17 rows, 30 columns and 66 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [2e+02, 1e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 24 columns, 48 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.1750000e+03   2.498800e+01   0.000000e+00      0s
+       7    1.5100000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  1.510000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 21:05:54
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 17 rows, 30 columns and 66 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [2e+02, 1e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 11 rows, 24 columns, 48 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.1750000e+03   2.498800e+01   0.000000e+00      0s
+       7    1.5100000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.04 seconds
+Optimal objective  1.510000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 21:06:00
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 17 rows, 30 columns and 66 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [2e+02, 1e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 11 rows, 24 columns, 48 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.1750000e+03   2.498800e+01   0.000000e+00      0s
+       7    1.5100000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  1.510000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 21:06:09
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 17 rows, 30 columns and 66 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [2e+02, 1e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 24 columns, 48 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.1750000e+03   2.498800e+01   0.000000e+00      0s
+       7    1.5100000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  1.510000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 21:06:18
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 17 rows, 30 columns and 66 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [2e+02, 1e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 24 columns, 48 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.1750000e+03   2.498800e+01   0.000000e+00      0s
+       7    1.5100000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  1.510000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/04/16 21:09:22
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 17 rows, 30 columns and 66 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [2e+02, 1e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 11 rows, 24 columns, 48 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.1750000e+03   2.498800e+01   0.000000e+00      0s
+       7    1.5100000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  1.510000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/06/16 09:50:51
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 17 rows, 30 columns and 66 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [2e+02, 1e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 24 columns, 48 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.1750000e+03   2.498800e+01   0.000000e+00      0s
+       7    1.5100000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  1.510000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/06/16 09:51:04
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.01s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.02 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/06/16 10:45:55
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 5 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 6.5.2 (win64) logging started 10/06/16 10:46:34
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Found heuristic solution: objective 90600
+Presolve removed 3 rows and 3 columns
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+Variable types: 0 continuous, 12 integer (0 binary)
+
+Root relaxation: objective 8.840000e+04, 4 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    88400.000000 88400.0000  0.00%     -    0s
+
+Explored 0 nodes (4 simplex iterations) in 0.03 seconds
+Thread count was 4 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.840000000000e+04, best bound 8.840000000000e+04, gap 0.0%
+
+Gurobi 6.5.2 (win64) logging started 10/06/16 10:46:50
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 5 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 6.5.2 (win64) logging started 10/06/16 10:47:51
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.01s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.02 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/06/16 10:47:57
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Found heuristic solution: objective 90600
+Presolve removed 3 rows and 3 columns
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+Variable types: 0 continuous, 12 integer (0 binary)
+
+Root relaxation: objective 8.840000e+04, 4 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    88400.000000 88400.0000  0.00%     -    0s
+
+Explored 0 nodes (4 simplex iterations) in 0.03 seconds
+Thread count was 4 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.840000000000e+04, best bound 8.840000000000e+04, gap 0.0%
+
+Gurobi 6.5.2 (win64) logging started 10/06/16 10:48:21
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.01s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.02 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/06/16 10:48:26
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolved: 8 rows, 13 columns, 26 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.5800000e+04   1.798798e+03   0.000000e+00      0s
+       5    8.8400000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.01 seconds
+Optimal objective  8.840000000e+04
+
+Gurobi 6.5.2 (win64) logging started 10/06/16 10:48:36
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 10 rows, 15 columns and 32 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [4e+02, 1e+03]
+Found heuristic solution: objective 90600
+Presolve removed 3 rows and 3 columns
+Presolve time: 0.00s
+Presolved: 7 rows, 12 columns, 24 nonzeros
+Variable types: 0 continuous, 12 integer (0 binary)
+
+Root relaxation: objective 8.840000e+04, 4 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    88400.000000 88400.0000  0.00%     -    0s
+
+Explored 0 nodes (4 simplex iterations) in 0.03 seconds
+Thread count was 4 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.840000000000e+04, best bound 8.840000000000e+04, gap 0.0%
+
+Gurobi 6.5.2 (win64) logging started 10/12/16 11:32:34
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 3 rows, 3 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+01, 9e+01]
+  Objective range [6e+01, 8e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+02, 2e+02]
+Presolve time: 0.00s
+Presolved: 3 rows, 3 columns, 9 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.1600000e+32   3.906250e+30   2.160000e+02      0s
+       3    2.6909091e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.00 seconds
+Optimal objective  2.690909091e+02
+
+Gurobi 6.5.2 (win64) logging started 10/12/16 11:33:45
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 3 rows, 3 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+01, 9e+01]
+  Objective range [6e+01, 8e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+02, 2e+02]
+Presolve removed 3 rows and 3 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  0.000000000e+00
+
+Gurobi 6.5.2 (win64) logging started 10/12/16 11:34:11
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 3 rows, 3 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+01, 9e+01]
+  Objective range [6e+01, 8e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+02, 2e+02]
+Presolve removed 3 rows and 3 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.4353425e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  2.435342466e+02
+
+Gurobi 6.5.2 (win64) logging started 10/12/16 11:37:05
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+
+Gurobi 6.5.2 (win64) logging started 10/12/16 11:37:46
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 3 rows, 3 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+01, 9e+01]
+  Objective range [6e+01, 8e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+02, 2e+02]
+Presolve time: 0.01s
+Presolved: 3 rows, 3 columns, 9 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   5.312500e+00   0.000000e+00      0s
+       3    2.4171429e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  2.417142857e+02
+
+Gurobi 6.5.2 (win64) logging started 10/13/16 09:40:42
+
+Changed value of parameter TimeLimit to 7200.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 3 rows, 3 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+01, 9e+01]
+  Objective range [6e+01, 8e+01]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [2e+02, 2e+02]
+Presolve time: 0.01s
+Presolved: 3 rows, 3 columns, 9 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   5.312500e+00   0.000000e+00      0s
+       3    2.4171429e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.03 seconds
+Optimal objective  2.417142857e+02
