@@ -1,0 +1,2247 @@
+Basic statistics for each numeric variable of the dataset.
+
+$order
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        22.000000
+1. Quartile     4.000000
+3. Quartile    13.000000
+Mean            8.894187
+Median          8.000000
+Sum         25553.000000
+SE Mean         0.101154
+LCL Mean        8.695846
+UCL Mean        9.092529
+Variance       29.396878
+Stdev           5.421889
+Skewness        0.389922
+Kurtosis       -0.833469
+
+$interest_corr
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum       -0.730000
+Maximum        0.900000
+1. Quartile   -0.020000
+3. Quartile    0.420000
+Mean           0.191465
+Median         0.210000
+Sum          550.080000
+SE Mean        0.005653
+LCL Mean       0.180382
+UCL Mean       0.202549
+Variance       0.091801
+Stdev          0.302987
+Skewness      -0.243464
+Kurtosis      -0.523930
+
+$samerace
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        0.000000
+Maximum        1.000000
+1. Quartile    0.000000
+3. Quartile    1.000000
+Mean           0.395405
+Median         0.000000
+Sum         1136.000000
+SE Mean        0.009123
+LCL Mean       0.377516
+UCL Mean       0.413295
+Variance       0.239143
+Stdev          0.489023
+Skewness       0.427621
+Kurtosis      -1.817773
+
+$f_est_matches
+                X...X.i
+nobs        2873.000000
+NAs          359.000000
+Minimum        0.000000
+Maximum       12.000000
+1. Quartile    1.000000
+3. Quartile    4.000000
+Mean           2.998210
+Median         2.000000
+Sum         7537.500000
+SE Mean        0.048671
+LCL Mean       2.902771
+UCL Mean       3.093649
+Variance       5.955329
+Stdev          2.440354
+Skewness       1.309672
+Kurtosis       1.809431
+
+$f_age
+                 X...X.i
+nobs         2873.000000
+NAs            12.000000
+Minimum        19.000000
+Maximum        55.000000
+1. Quartile    23.000000
+3. Quartile    28.000000
+Mean           26.038448
+Median         26.000000
+Sum         74496.000000
+SE Mean         0.066849
+LCL Mean       25.907371
+UCL Mean       26.169525
+Variance       12.785235
+Stdev           3.575645
+Skewness        1.107608
+Kurtosis        3.113470
+
+$f_field_num
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        18.000000
+1. Quartile     5.000000
+3. Quartile    11.000000
+Mean            7.983989
+Median          9.000000
+Sum         22938.000000
+SE Mean         0.073186
+LCL Mean        7.840487
+UCL Mean        8.127491
+Variance       15.388323
+Stdev           3.922795
+Skewness       -0.099563
+Kurtosis       -0.765350
+
+$f_race
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        1.000000
+Maximum        6.000000
+1. Quartile    2.000000
+3. Quartile    4.000000
+Mean           2.797772
+Median         2.000000
+Sum         8038.000000
+SE Mean        0.023117
+LCL Mean       2.752444
+UCL Mean       2.843100
+Variance       1.535343
+Stdev          1.239090
+Skewness       1.005536
+Kurtosis       0.373947
+
+$f_imp_race
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     1.000000
+3. Quartile     7.000000
+Mean            4.113470
+Median          3.000000
+Sum         11818.000000
+SE Mean         0.055962
+LCL Mean        4.003740
+UCL Mean        4.223200
+Variance        8.997566
+Stdev           2.999594
+Skewness        0.558415
+Kurtosis       -1.101492
+
+$f_imp_relig
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     2.000000
+3. Quartile     6.000000
+Mean            4.259659
+Median          4.000000
+Sum         12238.000000
+SE Mean         0.054317
+LCL Mean        4.153154
+UCL Mean        4.366164
+Variance        8.476426
+Stdev           2.911430
+Skewness        0.524532
+Kurtosis       -0.954594
+
+$f_goal
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        1.000000
+Maximum        6.000000
+1. Quartile    1.000000
+3. Quartile    2.000000
+Mean           2.096763
+Median         2.000000
+Sum         6024.000000
+SE Mean        0.025924
+LCL Mean       2.045932
+UCL Mean       2.147594
+Variance       1.930745
+Stdev          1.389513
+Skewness       1.558930
+Kurtosis       1.508494
+
+$f_dat_freq
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum         7.000000
+1. Quartile     4.000000
+3. Quartile     6.000000
+Mean            5.150714
+Median          5.000000
+Sum         14798.000000
+SE Mean         0.026862
+LCL Mean        5.098043
+UCL Mean        5.203384
+Variance        2.073030
+Stdev           1.439802
+Skewness       -0.470283
+Kurtosis       -0.503659
+
+$f_out_freq
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        1.000000
+Maximum        7.000000
+1. Quartile    1.000000
+3. Quartile    3.000000
+Mean           2.137835
+Median         2.000000
+Sum         6142.000000
+SE Mean        0.019599
+LCL Mean       2.099406
+UCL Mean       2.176264
+Variance       1.103558
+Stdev          1.050503
+Skewness       0.942733
+Kurtosis       1.490193
+
+$f_career_num
+                 X...X.i
+nobs         2873.000000
+NAs            32.000000
+Minimum         1.000000
+Maximum        16.000000
+1. Quartile     2.000000
+3. Quartile     7.000000
+Mean            5.306582
+Median          5.000000
+Sum         15076.000000
+SE Mean         0.065210
+LCL Mean        5.178718
+UCL Mean        5.434446
+Variance       12.080974
+Stdev           3.475770
+Skewness        0.629451
+Kurtosis       -0.433207
+
+$f_like_sports
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     4.000000
+3. Quartile     8.000000
+Mean            5.827010
+Median          6.000000
+Sum         16741.000000
+SE Mean         0.049148
+LCL Mean        5.730641
+UCL Mean        5.923379
+Variance        6.939772
+Stdev           2.634345
+Skewness       -0.173114
+Kurtosis       -1.056414
+
+$f_like_tvsports
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     2.000000
+3. Quartile     6.000000
+Mean            4.173686
+Median          4.000000
+Sum         11991.000000
+SE Mean         0.048887
+LCL Mean        4.077828
+UCL Mean        4.269544
+Variance        6.866410
+Stdev           2.620384
+Skewness        0.411131
+Kurtosis       -1.010927
+
+$f_like_exercise
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     5.000000
+3. Quartile     8.000000
+Mean            6.438566
+Median          7.000000
+Sum         18498.000000
+SE Mean         0.045267
+LCL Mean        6.349808
+UCL Mean        6.527324
+Variance        5.886980
+Stdev           2.426310
+Skewness       -0.492128
+Kurtosis       -0.469254
+
+$f_like_dining
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            8.161852
+Median          8.000000
+Sum         23449.000000
+SE Mean         0.029255
+LCL Mean        8.104489
+UCL Mean        8.219214
+Variance        2.458823
+Stdev           1.568063
+Skewness       -0.914864
+Kurtosis        0.946084
+
+$f_like_museums
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     6.000000
+3. Quartile     9.000000
+Mean            7.415245
+Median          8.000000
+Sum         21304.000000
+SE Mean         0.035618
+LCL Mean        7.345407
+UCL Mean        7.485084
+Variance        3.644712
+Stdev           1.909113
+Skewness       -0.744572
+Kurtosis        0.261943
+
+$f_like_art
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     6.000000
+3. Quartile     9.000000
+Mean            7.197703
+Median          8.000000
+Sum         20679.000000
+SE Mean         0.038584
+LCL Mean        7.122048
+UCL Mean        7.273357
+Variance        4.277056
+Stdev           2.068104
+Skewness       -0.649112
+Kurtosis       -0.104445
+
+$f_like_hiking
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     4.000000
+3. Quartile     8.000000
+Mean            6.003481
+Median          6.000000
+Sum         17248.000000
+SE Mean         0.047269
+LCL Mean        5.910797
+UCL Mean        6.096165
+Variance        6.419208
+Stdev           2.533616
+Skewness       -0.293339
+Kurtosis       -0.931964
+
+$f_like_gaming
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        0.000000
+Maximum       14.000000
+1. Quartile    1.000000
+3. Quartile    5.000000
+Mean           3.343891
+Median         3.000000
+Sum         9607.000000
+SE Mean        0.045691
+LCL Mean       3.254300
+UCL Mean       3.433483
+Variance       5.997993
+Stdev          2.449080
+Skewness       0.971191
+Kurtosis       0.720727
+
+$f_like_clubbing
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     4.000000
+3. Quartile     8.000000
+Mean            5.887922
+Median          6.000000
+Sum         16916.000000
+SE Mean         0.045733
+LCL Mean        5.798248
+UCL Mean        5.977596
+Variance        6.009022
+Stdev           2.451331
+Skewness       -0.567521
+Kurtosis       -0.636251
+
+$f_like_reading
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         2.000000
+Maximum        13.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            7.888966
+Median          8.000000
+Sum         22665.000000
+SE Mean         0.036422
+LCL Mean        7.817551
+UCL Mean        7.960381
+Variance        3.811135
+Stdev           1.952213
+Skewness       -0.892004
+Kurtosis        0.586196
+
+$f_like_tv
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     4.000000
+3. Quartile     8.000000
+Mean            5.717369
+Median          6.000000
+Sum         16426.000000
+SE Mean         0.046850
+LCL Mean        5.625507
+UCL Mean        5.809231
+Variance        6.305886
+Stdev           2.511152
+Skewness       -0.289518
+Kurtosis       -0.794525
+
+$f_like_theater
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            7.469544
+Median          8.000000
+Sum         21460.000000
+SE Mean         0.039680
+LCL Mean        7.391740
+UCL Mean        7.547348
+Variance        4.523532
+Stdev           2.126860
+Skewness       -0.963962
+Kurtosis        0.425975
+
+$f_like_movies
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         2.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            8.198747
+Median          8.000000
+Sum         23555.000000
+SE Mean         0.029063
+LCL Mean        8.141760
+UCL Mean        8.255734
+Variance        2.426712
+Stdev           1.557791
+Skewness       -1.096700
+Kurtosis        1.442364
+
+$f_like_concerts
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     6.000000
+3. Quartile     9.000000
+Mean            7.109990
+Median          7.000000
+Sum         20427.000000
+SE Mean         0.036723
+LCL Mean        7.037984
+UCL Mean        7.181995
+Variance        3.874388
+Stdev           1.968347
+Skewness       -0.599431
+Kurtosis       -0.044028
+
+$f_like_music
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            7.971458
+Median          8.000000
+Sum         22902.000000
+SE Mean         0.030977
+LCL Mean        7.910719
+UCL Mean        8.032198
+Variance        2.756845
+Stdev           1.660375
+Skewness       -0.704287
+Kurtosis        0.118056
+
+$f_like_shopping
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     5.000000
+3. Quartile     8.000000
+Mean            6.489384
+Median          7.000000
+Sum         18644.000000
+SE Mean         0.044211
+LCL Mean        6.402696
+UCL Mean        6.576072
+Variance        5.615573
+Stdev           2.369720
+Skewness       -0.411514
+Kurtosis       -0.600135
+
+$f_like_yoga
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     3.000000
+3. Quartile     7.000000
+Mean            4.958232
+Median          5.000000
+Sum         14245.000000
+SE Mean         0.049802
+LCL Mean        4.860581
+UCL Mean        5.055883
+Variance        7.125692
+Stdev           2.669399
+Skewness        0.135312
+Kurtosis       -1.126440
+
+$f_exp_happy
+                 X...X.i
+nobs         2873.000000
+NAs            12.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     4.000000
+3. Quartile     6.000000
+Mean            5.181056
+Median          5.000000
+Sum         14823.000000
+SE Mean         0.032284
+LCL Mean        5.117753
+UCL Mean        5.244358
+Variance        2.981893
+Stdev           1.726816
+Skewness       -0.169648
+Kurtosis        0.059208
+
+$f_pref_attr
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        90.000000
+1. Quartile    13.040000
+3. Quartile    20.000000
+Mean           18.115489
+Median         15.380000
+Sum         52045.800000
+SE Mean         0.177502
+LCL Mean       17.767445
+UCL Mean       18.463533
+Variance       90.519325
+Stdev           9.514164
+Skewness        2.502040
+Kurtosis       10.572670
+
+$f_pref_sinc
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        60.000000
+1. Quartile    15.000000
+3. Quartile    20.000000
+Mean           18.338963
+Median         20.000000
+Sum         52687.840000
+SE Mean         0.123750
+LCL Mean       18.096314
+UCL Mean       18.581611
+Variance       43.997585
+Stdev           6.633068
+Skewness        0.508867
+Kurtosis        3.658736
+
+$f_pref_intel
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         2.000000
+Maximum        50.000000
+1. Quartile    18.000000
+3. Quartile    25.000000
+Mean           21.009812
+Median         20.000000
+Sum         60361.190000
+SE Mean         0.126415
+LCL Mean       20.761938
+UCL Mean       21.257686
+Variance       45.912974
+Stdev           6.775911
+Skewness        1.363856
+Kurtosis        3.961772
+
+$f_pref_fun
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        40.000000
+1. Quartile    15.000000
+3. Quartile    20.000000
+Mean           17.137626
+Median         17.390000
+Sum         49236.400000
+SE Mean         0.103033
+LCL Mean       16.935599
+UCL Mean       17.339653
+Variance       30.499453
+Stdev           5.522631
+Skewness        0.250205
+Kurtosis        1.192096
+
+$f_pref_amb
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile    10.000000
+3. Quartile    16.360000
+Mean           12.770592
+Median         15.000000
+Sum         36689.910000
+SE Mean         0.101402
+LCL Mean       12.571764
+UCL Mean       12.969419
+Variance       29.541028
+Stdev           5.435166
+Skewness       -0.396551
+Kurtosis       -0.064733
+
+$f_pref_shar
+                 X...X.i
+nobs         2873.000000
+NAs            17.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile    10.000000
+3. Quartile    16.000000
+Mean           12.680214
+Median         13.040000
+Sum         36214.690000
+SE Mean         0.108559
+LCL Mean       12.467352
+UCL Mean       12.893075
+Variance       33.658032
+Stdev           5.801554
+Skewness       -0.014137
+Kurtosis        0.278082
+
+$f_genderpref_attr
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum        10.000000
+Maximum        80.000000
+1. Quartile    18.000000
+3. Quartile    30.000000
+Mean           27.089292
+Median         22.222222
+Sum         61113.442942
+SE Mean         0.273675
+LCL Mean       26.552610
+UCL Mean       27.625974
+Variance      168.970365
+Stdev          12.998860
+Skewness        1.346634
+Kurtosis        1.662134
+
+$f_genderpref_sinc
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         0.000000
+Maximum        35.000000
+1. Quartile    10.000000
+3. Quartile    18.181818
+Mean           13.593690
+Median         14.285714
+Sum         30667.365292
+SE Mean         0.133834
+LCL Mean       13.331239
+UCL Mean       13.856141
+Variance       40.408571
+Stdev           6.356774
+Skewness        0.172075
+Kurtosis        0.400874
+
+$f_genderpref_intel
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile    10.000000
+3. Quartile    18.918919
+Mean           14.785490
+Median         15.000000
+Sum         33356.065974
+SE Mean         0.126438
+LCL Mean       14.537544
+UCL Mean       15.033437
+Variance       36.065566
+Stdev           6.005461
+Skewness       -0.022053
+Kurtosis        0.777635
+
+$f_genderpref_fun
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         0.000000
+Maximum        40.909091
+1. Quartile    14.285714
+3. Quartile    20.000000
+Mean           16.562891
+Median         17.391304
+Sum         37365.881293
+SE Mean         0.134294
+LCL Mean       16.299537
+UCL Mean       16.826244
+Variance       40.686946
+Stdev           6.378632
+Skewness       -0.217729
+Kurtosis        1.363960
+
+$f_genderpref_amb
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         0.000000
+Maximum        50.000000
+1. Quartile    10.000000
+3. Quartile    17.000000
+Mean           13.433244
+Median         15.000000
+Sum         30305.398969
+SE Mean         0.146242
+LCL Mean       13.146460
+UCL Mean       13.720028
+Variance       48.248734
+Stdev           6.946131
+Skewness        0.792119
+Kurtosis        3.602779
+
+$f_genderpref_shar
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile    10.000000
+3. Quartile    16.231930
+Mean           12.347893
+Median         13.000000
+Sum         27856.845533
+SE Mean         0.124608
+LCL Mean       12.103535
+UCL Mean       12.592250
+Variance       35.029056
+Stdev           5.918535
+Skewness       -0.329340
+Kurtosis        0.201014
+
+$f_oppgender_pref_attr
+                  X...X.i
+nobs          2873.000000
+NAs              0.000000
+Minimum         10.000000
+Maximum        100.000000
+1. Quartile     23.260000
+3. Quartile     45.000000
+Mean            35.543331
+Median          30.000000
+Sum         102115.989981
+SE Mean          0.318393
+LCL Mean        34.919029
+UCL Mean        36.167633
+Variance       291.248330
+Stdev           17.065999
+Skewness         1.289269
+Kurtosis         1.751923
+
+$f_oppgender_pref_sinc
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile     5.000000
+3. Quartile    15.000000
+Mean           11.328744
+Median         10.000000
+Sum         32547.481943
+SE Mean         0.115247
+LCL Mean       11.102770
+UCL Mean       11.554718
+Variance       38.158521
+Stdev           6.177258
+Skewness        0.196417
+Kurtosis       -0.271344
+
+$f_oppgender_pref_intel
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile    10.000000
+3. Quartile    15.091509
+Mean           12.542767
+Median         11.630000
+Sum         36035.370585
+SE Mean         0.096690
+LCL Mean       12.353178
+UCL Mean       12.732357
+Variance       26.859713
+Stdev           5.182636
+Skewness       -0.026333
+Kurtosis        0.238824
+
+$f_oppgender_pref_fun
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        50.000000
+1. Quartile    15.000000
+3. Quartile    20.000000
+Mean           18.809453
+Median         20.000000
+Sum         54039.558804
+SE Mean         0.121616
+LCL Mean       18.570989
+UCL Mean       19.047917
+Variance       42.493047
+Stdev           6.518669
+Skewness        0.229880
+Kurtosis        1.719669
+
+$f_oppgender_pref_amb
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile     5.000000
+3. Quartile    13.160000
+Mean            9.205892
+Median         10.000000
+Sum         26448.528875
+SE Mean         0.096964
+LCL Mean        9.015767
+UCL Mean        9.396018
+Variance       27.011885
+Stdev           5.197296
+Skewness        0.057525
+Kurtosis       -0.041696
+
+$f_oppgender_pref_shar
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile    10.000000
+3. Quartile    16.363636
+Mean           12.569812
+Median         11.430000
+Sum         36113.069811
+SE Mean         0.113793
+LCL Mean       12.346688
+UCL Mean       12.792936
+Variance       37.202082
+Stdev           6.099351
+Skewness        0.083134
+Kurtosis        0.066800
+
+$f_rate_self_attr
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         2.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     8.000000
+Mean            7.219283
+Median          7.000000
+Sum         20741.000000
+SE Mean         0.024719
+LCL Mean        7.170814
+UCL Mean        7.267752
+Variance        1.755519
+Stdev           1.324960
+Skewness       -0.766631
+Kurtosis        1.105684
+
+$f_rate_self_sinc
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         2.000000
+Maximum        10.000000
+1. Quartile     8.000000
+3. Quartile     9.000000
+Mean            8.455273
+Median          9.000000
+Sum         24292.000000
+SE Mean         0.025379
+LCL Mean        8.405511
+UCL Mean        8.505036
+Variance        1.850454
+Stdev           1.360314
+Skewness       -1.298380
+Kurtosis        2.467646
+
+$f_rate_self_fun
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         2.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            7.873303
+Median          8.000000
+Sum         22620.000000
+SE Mean         0.026458
+LCL Mean        7.821426
+UCL Mean        7.925181
+Variance        2.011101
+Stdev           1.418133
+Skewness       -0.764332
+Kurtosis        1.149687
+
+$f_rate_self_intel
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         3.000000
+Maximum        10.000000
+1. Quartile     8.000000
+3. Quartile     9.000000
+Mean            8.314306
+Median          8.000000
+Sum         23887.000000
+SE Mean         0.019349
+LCL Mean        8.276366
+UCL Mean        8.352245
+Variance        1.075620
+Stdev           1.037121
+Skewness       -0.626853
+Kurtosis        1.424784
+
+$f_rate_self_amb
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         3.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            7.609119
+Median          8.000000
+Sum         21861.000000
+SE Mean         0.030020
+LCL Mean        7.550256
+UCL Mean        7.667982
+Variance        2.589151
+Stdev           1.609084
+Skewness       -0.610692
+Kurtosis        0.097363
+
+$f_avg_attr
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         3.200000
+Maximum         8.687500
+1. Quartile     5.750000
+3. Quartile     7.238095
+Mean            6.452048
+Median          6.526316
+Sum         18536.735298
+SE Mean         0.020344
+LCL Mean        6.412158
+UCL Mean        6.491938
+Variance        1.189053
+Stdev           1.090437
+Skewness       -0.384470
+Kurtosis       -0.404051
+
+$f_avg_sinc
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         5.642857
+Maximum         9.000000
+1. Quartile     6.900000
+3. Quartile     7.687500
+Mean            7.246733
+Median          7.300000
+Sum         20819.863853
+SE Mean         0.010346
+LCL Mean        7.226447
+UCL Mean        7.267019
+Variance        0.307526
+Stdev           0.554550
+Skewness       -0.504146
+Kurtosis       -0.026844
+
+$f_avg_fun
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         5.714286
+Maximum         9.000000
+1. Quartile     6.866667
+3. Quartile     7.650000
+Mean            7.292824
+Median          7.333333
+Sum         20952.283536
+SE Mean         0.010440
+LCL Mean        7.272353
+UCL Mean        7.313295
+Variance        0.313156
+Stdev           0.559603
+Skewness       -0.198517
+Kurtosis       -0.279615
+
+$f_avg_intel
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         3.850000
+Maximum         8.200000
+1. Quartile     6.000000
+3. Quartile     7.142857
+Mean            6.508252
+Median          6.529412
+Sum         18698.208954
+SE Mean         0.015929
+LCL Mean        6.477018
+UCL Mean        6.539487
+Variance        0.729010
+Stdev           0.853821
+Skewness       -0.474271
+Kurtosis        0.028513
+
+$f_avg_amb
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         4.600000
+Maximum         8.529412
+1. Quartile     6.200000
+3. Quartile     7.050000
+Mean            6.606553
+Median          6.571429
+Sum         18980.626724
+SE Mean         0.012524
+LCL Mean        6.581996
+UCL Mean        6.631110
+Variance        0.450630
+Stdev           0.671290
+Skewness        0.068872
+Kurtosis       -0.080424
+
+$f_avg_like
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         3.800000
+Maximum         7.944444
+1. Quartile     5.750000
+3. Quartile     6.812500
+Mean            6.268555
+Median          6.309524
+Sum         18009.557460
+SE Mean         0.014692
+LCL Mean        6.239747
+UCL Mean        6.297362
+Variance        0.620143
+Stdev           0.787491
+Skewness       -0.331968
+Kurtosis       -0.127533
+
+$m_est_matches
+                X...X.i
+nobs        2873.000000
+NAs          437.000000
+Minimum        0.000000
+Maximum       18.000000
+1. Quartile    2.000000
+3. Quartile    5.000000
+Mean           3.417816
+Median         3.000000
+Sum         8325.800000
+SE Mean        0.049854
+LCL Mean       3.320054
+UCL Mean       3.515578
+Variance       6.054606
+Stdev          2.460611
+Skewness       1.774256
+Kurtosis       6.314666
+
+$m_age
+                 X...X.i
+nobs         2873.000000
+NAs             6.000000
+Minimum        18.000000
+Maximum        42.000000
+1. Quartile    24.000000
+3. Quartile    29.000000
+Mean           26.642483
+Median         27.000000
+Sum         76384.000000
+SE Mean         0.063168
+LCL Mean       26.518624
+UCL Mean       26.766342
+Variance       11.439827
+Stdev           3.382281
+Skewness        0.719947
+Kurtosis        1.605126
+
+$m_field_num
+                 X...X.i
+nobs         2873.000000
+NAs            10.000000
+Minimum         1.000000
+Maximum        18.000000
+1. Quartile     5.000000
+3. Quartile     9.000000
+Mean            7.335662
+Median          8.000000
+Sum         21002.000000
+SE Mean         0.066413
+LCL Mean        7.205440
+UCL Mean        7.465883
+Variance       12.627683
+Stdev           3.553545
+Skewness        0.105158
+Kurtosis        0.027723
+
+$m_race
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        1.000000
+Maximum        6.000000
+1. Quartile    2.000000
+3. Quartile    4.000000
+Mean           2.737905
+Median         2.000000
+Sum         7866.000000
+SE Mean        0.022981
+LCL Mean       2.692844
+UCL Mean       2.782965
+Variance       1.517285
+Stdev          1.231781
+Skewness       1.205893
+Kurtosis       0.700244
+
+$m_imp_race
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        1.000000
+Maximum       10.000000
+1. Quartile    1.000000
+3. Quartile    6.000000
+Mean           3.404803
+Median         3.000000
+Sum         9782.000000
+SE Mean        0.048771
+LCL Mean       3.309174
+UCL Mean       3.500432
+Variance       6.833640
+Stdev          2.614123
+Skewness       0.732615
+Kurtosis      -0.782936
+
+$m_imp_relig
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        1.000000
+Maximum       10.000000
+1. Quartile    1.000000
+3. Quartile    5.000000
+Mean           3.041420
+Median         2.000000
+Sum         8738.000000
+SE Mean        0.047621
+LCL Mean       2.948045
+UCL Mean       3.134795
+Variance       6.515345
+Stdev          2.552517
+Skewness       0.975766
+Kurtosis      -0.362437
+
+$m_goal
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        1.000000
+Maximum        6.000000
+1. Quartile    1.000000
+3. Quartile    3.000000
+Mean           2.127741
+Median         2.000000
+Sum         6113.000000
+SE Mean        0.026343
+LCL Mean       2.076087
+UCL Mean       2.179395
+Variance       1.993774
+Stdev          1.412011
+Skewness       1.433532
+Kurtosis       1.207776
+
+$m_dat_freq
+                 X...X.i
+nobs         2873.000000
+NAs            14.000000
+Minimum         1.000000
+Maximum         7.000000
+1. Quartile     4.000000
+3. Quartile     6.000000
+Mean            4.854844
+Median          5.000000
+Sum         13880.000000
+SE Mean         0.026855
+LCL Mean        4.802188
+UCL Mean        4.907501
+Variance        2.061848
+Stdev           1.435914
+Skewness       -0.276468
+Kurtosis       -0.584378
+
+$m_out_freq
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        1.000000
+Maximum        7.000000
+1. Quartile    1.000000
+3. Quartile    3.000000
+Mean           2.180647
+Median         2.000000
+Sum         6265.000000
+SE Mean        0.021339
+LCL Mean       2.138806
+UCL Mean       2.222489
+Variance       1.308233
+Stdev          1.143780
+Skewness       1.343083
+Kurtosis       2.260896
+
+$m_career_num
+                 X...X.i
+nobs         2873.000000
+NAs            10.000000
+Minimum         1.000000
+Maximum        17.000000
+1. Quartile     2.000000
+3. Quartile     7.000000
+Mean            5.235068
+Median          6.000000
+Sum         14988.000000
+SE Mean         0.057965
+LCL Mean        5.121411
+UCL Mean        5.348725
+Variance        9.619427
+Stdev           3.101520
+Skewness        0.531193
+Kurtosis        0.533229
+
+$m_like_sports
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     6.000000
+3. Quartile     9.000000
+Mean            7.069962
+Median          7.000000
+Sum         20312.000000
+SE Mean         0.045325
+LCL Mean        6.981089
+UCL Mean        7.158834
+Variance        5.902137
+Stdev           2.429431
+Skewness       -0.707061
+Kurtosis       -0.371201
+
+$m_like_tvsports
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     2.000000
+3. Quartile     7.000000
+Mean            4.988166
+Median          5.000000
+Sum         14331.000000
+SE Mean         0.054570
+LCL Mean        4.881165
+UCL Mean        5.095167
+Variance        8.555570
+Stdev           2.924991
+Skewness        0.127994
+Kurtosis       -1.291661
+
+$m_like_exercise
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     4.000000
+3. Quartile     8.000000
+Mean            6.056039
+Median          6.000000
+Sum         17399.000000
+SE Mean         0.044049
+LCL Mean        5.969668
+UCL Mean        6.142410
+Variance        5.574505
+Stdev           2.361039
+Skewness       -0.244492
+Kurtosis       -0.867515
+
+$m_like_dining
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     6.000000
+3. Quartile     9.000000
+Mean            7.435433
+Median          8.000000
+Sum         21362.000000
+SE Mean         0.034117
+LCL Mean        7.368537
+UCL Mean        7.502330
+Variance        3.344106
+Stdev           1.828690
+Skewness       -0.669362
+Kurtosis        0.335907
+
+$m_like_museums
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     5.000000
+3. Quartile     8.000000
+Mean            6.540550
+Median          7.000000
+Sum         18791.000000
+SE Mean         0.039671
+LCL Mean        6.462764
+UCL Mean        6.618336
+Variance        4.521423
+Stdev           2.126364
+Skewness       -0.501013
+Kurtosis       -0.269563
+
+$m_like_art
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     4.000000
+3. Quartile     8.000000
+Mean            6.184476
+Median          7.000000
+Sum         17768.000000
+SE Mean         0.044170
+LCL Mean        6.097868
+UCL Mean        6.271085
+Variance        5.605232
+Stdev           2.367537
+Skewness       -0.261951
+Kurtosis       -0.768641
+
+$m_like_hiking
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     3.000000
+3. Quartile     8.000000
+Mean            5.551688
+Median          6.000000
+Sum         15950.000000
+SE Mean         0.047777
+LCL Mean        5.458008
+UCL Mean        5.645369
+Variance        6.557999
+Stdev           2.560859
+Skewness       -0.057407
+Kurtosis       -0.974166
+
+$m_like_gaming
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        14.000000
+1. Quartile     2.000000
+3. Quartile     6.000000
+Mean            4.429168
+Median          4.000000
+Sum         12725.000000
+SE Mean         0.049282
+LCL Mean        4.332537
+UCL Mean        4.525800
+Variance        6.977659
+Stdev           2.641526
+Skewness        0.654500
+Kurtosis        0.431116
+
+$m_like_clubbing
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     3.000000
+3. Quartile     8.000000
+Mean            5.541942
+Median          6.000000
+Sum         15922.000000
+SE Mean         0.047962
+LCL Mean        5.447898
+UCL Mean        5.635987
+Variance        6.609052
+Stdev           2.570808
+Skewness       -0.334954
+Kurtosis       -1.023575
+
+$m_like_reading
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        13.000000
+1. Quartile     6.000000
+3. Quartile     9.000000
+Mean            7.460494
+Median          8.000000
+Sum         21434.000000
+SE Mean         0.038157
+LCL Mean        7.385675
+UCL Mean        7.535313
+Variance        4.183066
+Stdev           2.045255
+Skewness       -0.664545
+Kurtosis        0.332914
+
+$m_like_tv
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     3.000000
+3. Quartile     7.000000
+Mean            4.832231
+Median          5.000000
+Sum         13883.000000
+SE Mean         0.046967
+LCL Mean        4.740139
+UCL Mean        4.924323
+Variance        6.337443
+Stdev           2.517428
+Skewness        0.057691
+Kurtosis       -0.927247
+
+$m_like_theater
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     5.000000
+3. Quartile     8.000000
+Mean            6.083884
+Median          6.000000
+Sum         17479.000000
+SE Mean         0.039562
+LCL Mean        6.006311
+UCL Mean        6.161458
+Variance        4.496791
+Stdev           2.120564
+Skewness       -0.342484
+Kurtosis       -0.230312
+
+$m_like_movies
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            7.628263
+Median          8.000000
+Sum         21916.000000
+SE Mean         0.033668
+LCL Mean        7.562248
+UCL Mean        7.694279
+Variance        3.256610
+Stdev           1.804608
+Skewness       -1.017029
+Kurtosis        1.409723
+
+$m_like_concerts
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     5.000000
+3. Quartile     8.000000
+Mean            6.530456
+Median          7.000000
+Sum         18762.000000
+SE Mean         0.042750
+LCL Mean        6.446632
+UCL Mean        6.614279
+Variance        5.250552
+Stdev           2.291408
+Skewness       -0.406706
+Kurtosis       -0.481453
+
+$m_like_music
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     6.000000
+3. Quartile     9.000000
+Mean            7.687783
+Median          8.000000
+Sum         22087.000000
+SE Mean         0.035992
+LCL Mean        7.617210
+UCL Mean        7.758356
+Variance        3.721776
+Stdev           1.929191
+Skewness       -0.808105
+Kurtosis        0.541279
+
+$m_like_shopping
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     2.000000
+3. Quartile     7.000000
+Mean            4.727115
+Median          5.000000
+Sum         13581.000000
+SE Mean         0.047713
+LCL Mean        4.633560
+UCL Mean        4.820669
+Variance        6.540410
+Stdev           2.557423
+Skewness        0.249213
+Kurtosis       -0.993675
+
+$m_like_yoga
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     1.000000
+3. Quartile     6.000000
+Mean            3.685346
+Median          3.000000
+Sum         10588.000000
+SE Mean         0.048416
+LCL Mean        3.590413
+UCL Mean        3.780279
+Variance        6.734524
+Stdev           2.595096
+Skewness        0.721424
+Kurtosis       -0.505269
+
+$m_exp_happy
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         1.000000
+Maximum        10.000000
+1. Quartile     5.000000
+3. Quartile     7.000000
+Mean            5.904281
+Median          6.000000
+Sum         16963.000000
+SE Mean         0.030486
+LCL Mean        5.844505
+UCL Mean        5.964058
+Variance        2.670152
+Stdev           1.634060
+Skewness       -0.041831
+Kurtosis        0.130906
+
+$m_pref_attr
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         6.670000
+Maximum       100.000000
+1. Quartile    20.000000
+3. Quartile    30.000000
+Mean           26.741370
+Median         23.000000
+Sum         76827.956667
+SE Mean         0.251602
+LCL Mean       26.248032
+UCL Mean       27.234708
+Variance      181.870645
+Stdev          13.485942
+Skewness        2.047614
+Kurtosis        5.776932
+
+$m_pref_sinc
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        40.000000
+1. Quartile    10.530000
+3. Quartile    20.000000
+Mean           16.631218
+Median         17.780000
+Sum         47781.490000
+SE Mean         0.136888
+LCL Mean       16.362809
+UCL Mean       16.899627
+Variance       53.835257
+Stdev           7.337251
+Skewness        0.050075
+Kurtosis        0.830482
+
+$m_pref_intel
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        42.860000
+1. Quartile    16.670000
+3. Quartile    22.220000
+Mean           19.588419
+Median         20.000000
+Sum         56277.526667
+SE Mean         0.126169
+LCL Mean       19.341028
+UCL Mean       19.835809
+Variance       45.733920
+Stdev           6.762686
+Skewness       -0.209525
+Kurtosis        1.475401
+
+$m_pref_fun
+                 X...X.i
+nobs         2873.000000
+NAs             7.000000
+Minimum         0.000000
+Maximum        50.000000
+1. Quartile    15.000000
+3. Quartile    20.000000
+Mean           17.622843
+Median         18.180000
+Sum         50507.066667
+SE Mean         0.121259
+LCL Mean       17.385079
+UCL Mean       17.860606
+Variance       42.140938
+Stdev           6.491605
+Skewness        0.683459
+Kurtosis        3.186016
+
+$m_pref_amb
+                 X...X.i
+nobs         2873.000000
+NAs            13.000000
+Minimum         0.000000
+Maximum        53.000000
+1. Quartile     5.000000
+3. Quartile    12.000000
+Mean            8.549629
+Median         10.000000
+Sum         24451.940000
+SE Mean         0.111882
+LCL Mean        8.330252
+UCL Mean        8.769006
+Variance       35.800112
+Stdev           5.983319
+Skewness        1.007135
+Kurtosis        6.058603
+
+$m_pref_shar
+                 X...X.i
+nobs         2873.000000
+NAs            13.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile     5.000000
+3. Quartile    15.380000
+Mean           11.047601
+Median         10.000000
+Sum         31596.140000
+SE Mean         0.126457
+LCL Mean       10.799645
+UCL Mean       11.295558
+Variance       45.735444
+Stdev           6.762799
+Skewness        0.051086
+Kurtosis       -0.671807
+
+$m_gender_pref_attr
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         5.000000
+Maximum        95.000000
+1. Quartile    20.000000
+3. Quartile    37.500000
+Mean           31.238973
+Median         27.777778
+Sum         70475.123981
+SE Mean         0.308099
+LCL Mean       30.634787
+UCL Mean       31.843160
+Variance      214.150336
+Stdev          14.633876
+Skewness        1.713400
+Kurtosis        3.784446
+
+$m_gender_pref_sinc
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         0.000000
+Maximum        35.000000
+1. Quartile    10.000000
+3. Quartile    17.391304
+Mean           13.112863
+Median         14.285714
+Sum         29582.619024
+SE Mean         0.142012
+LCL Mean       12.834375
+UCL Mean       13.391351
+Variance       45.497693
+Stdev           6.745198
+Skewness        0.055583
+Kurtosis        0.004796
+
+$m_gender_pref_intel
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         0.000000
+Maximum        35.000000
+1. Quartile    10.000000
+3. Quartile    17.391304
+Mean           13.506169
+Median         15.000000
+Sum         30469.917602
+SE Mean         0.144382
+LCL Mean       13.223033
+UCL Mean       13.789305
+Variance       47.029152
+Stdev           6.857780
+Skewness       -0.020520
+Kurtosis        0.231688
+
+$m_gender_pref_fun
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         0.000000
+Maximum        40.000000
+1. Quartile    15.000000
+3. Quartile    20.000000
+Mean           17.363979
+Median         19.756098
+Sum         39173.136046
+SE Mean         0.158934
+LCL Mean       17.052306
+UCL Mean       17.675651
+Variance       56.986625
+Stdev           7.548949
+Skewness       -0.562268
+Kurtosis        0.552913
+
+$m_gender_pref_amb
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile     5.000000
+3. Quartile    15.000000
+Mean            9.410705
+Median         10.000000
+Sum         21230.550762
+SE Mean         0.130431
+LCL Mean        9.154928
+UCL Mean        9.666482
+Variance       38.379556
+Stdev           6.195124
+Skewness        0.282945
+Kurtosis       -0.270096
+
+$m_gender_pref_shar
+                 X...X.i
+nobs         2873.000000
+NAs           617.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile     5.000000
+3. Quartile    16.000000
+Mean           11.382381
+Median         10.000000
+Sum         25678.652586
+SE Mean         0.148030
+LCL Mean       11.092091
+UCL Mean       11.672672
+Variance       49.435747
+Stdev           7.031056
+Skewness       -0.047729
+Kurtosis       -0.685912
+
+$m_opp_gender_pref_attr
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        95.000000
+1. Quartile    16.668333
+3. Quartile    30.000000
+Mean           24.960493
+Median         20.000000
+Sum         71711.495692
+SE Mean         0.243968
+LCL Mean       24.482123
+UCL Mean       25.438863
+Variance      171.002046
+Stdev          13.076775
+Skewness        2.091065
+Kurtosis        5.836669
+
+$m_opp_gender_pref_sinc
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        50.000000
+1. Quartile    10.000000
+3. Quartile    20.000000
+Mean           15.184911
+Median         15.000000
+Sum         43626.248532
+SE Mean         0.132727
+LCL Mean       14.924661
+UCL Mean       15.445160
+Variance       50.611933
+Stdev           7.114206
+Skewness        0.087266
+Kurtosis        1.142573
+
+$m_opp_gender_pref_intel
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        40.000000
+1. Quartile    10.000000
+3. Quartile    20.000000
+Mean           16.349855
+Median         16.000000
+Sum         46973.132451
+SE Mean         0.125148
+LCL Mean       16.104466
+UCL Mean       16.595243
+Variance       44.996851
+Stdev           6.707969
+Skewness        0.066314
+Kurtosis        0.945676
+
+$m_opp_gender_pref_fun
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        44.000000
+1. Quartile    15.000000
+3. Quartile    20.000000
+Mean           18.164609
+Median         19.150000
+Sum         52186.922108
+SE Mean         0.123432
+LCL Mean       17.922585
+UCL Mean       18.406633
+Variance       43.771364
+Stdev           6.615993
+Skewness        0.099040
+Kurtosis        1.049190
+
+$m_opp_gender_pref_amb
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        50.000000
+1. Quartile    10.000000
+3. Quartile    20.000000
+Mean           14.190734
+Median         15.000000
+Sum         40769.979102
+SE Mean         0.138635
+LCL Mean       13.918901
+UCL Mean       14.462568
+Variance       55.217825
+Stdev           7.430870
+Skewness        0.583894
+Kurtosis        1.972103
+
+$m_opp_gender_pref_shar
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        30.000000
+1. Quartile     6.000000
+3. Quartile    15.000000
+Mean           11.149399
+Median         10.000000
+Sum         32032.222117
+SE Mean         0.112729
+LCL Mean       10.928362
+UCL Mean       11.370436
+Variance       36.509300
+Stdev           6.042293
+Skewness        0.120133
+Kurtosis       -0.173664
+
+$m_rate_self_attr
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     6.000000
+3. Quartile     8.000000
+Mean            6.939784
+Median          7.000000
+Sum         19938.000000
+SE Mean         0.027417
+LCL Mean        6.886024
+UCL Mean        6.993544
+Variance        2.159674
+Stdev           1.469583
+Skewness       -0.748805
+Kurtosis        2.136143
+
+$m_rate_self_sinc
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            8.133310
+Median          8.000000
+Sum         23367.000000
+SE Mean         0.028563
+LCL Mean        8.077303
+UCL Mean        8.189317
+Variance        2.343991
+Stdev           1.531010
+Skewness       -1.341394
+Kurtosis        3.733122
+
+$m_rate_self_fun
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            7.476505
+Median          8.000000
+Sum         21480.000000
+SE Mean         0.032465
+LCL Mean        7.412848
+UCL Mean        7.540163
+Variance        3.028086
+Stdev           1.740140
+Skewness       -0.985942
+Kurtosis        1.589915
+
+$m_rate_self_intel
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     8.000000
+3. Quartile     9.000000
+Mean            8.468848
+Median          9.000000
+Sum         24331.000000
+SE Mean         0.022891
+LCL Mean        8.423964
+UCL Mean        8.513731
+Variance        1.505384
+Stdev           1.226941
+Skewness       -1.699853
+Kurtosis        8.572639
+
+$m_rate_self_amb
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         0.000000
+Maximum        10.000000
+1. Quartile     7.000000
+3. Quartile     9.000000
+Mean            7.499826
+Median          8.000000
+Sum         21547.000000
+SE Mean         0.037121
+LCL Mean        7.427039
+UCL Mean        7.572613
+Variance        3.959001
+Stdev           1.989724
+Skewness       -0.946475
+Kurtosis        0.728376
+
+$m_avg_attr
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         2.333333
+Maximum         8.600000
+1. Quartile     5.071429
+3. Quartile     6.833333
+Mean            5.912904
+Median          5.950000
+Sum         16987.774488
+SE Mean         0.022212
+LCL Mean        5.869351
+UCL Mean        5.956458
+Variance        1.417485
+Stdev           1.190582
+Skewness       -0.113749
+Kurtosis       -0.519238
+
+$m_avg_sinc
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         4.166667
+Maximum         8.800000
+1. Quartile     6.562500
+3. Quartile     7.687500
+Mean            7.095755
+Median          7.166667
+Sum         20386.104912
+SE Mean         0.014859
+LCL Mean        7.066620
+UCL Mean        7.124890
+Variance        0.634312
+Stdev           0.796437
+Skewness       -0.431903
+Kurtosis        0.231934
+
+$m_avg_fun
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         4.875000
+Maximum         9.150000
+1. Quartile     7.000000
+3. Quartile     8.000000
+Mean            7.442173
+Median          7.500000
+Sum         21381.363322
+SE Mean         0.012312
+LCL Mean        7.418033
+UCL Mean        7.466313
+Variance        0.435470
+Stdev           0.659901
+Skewness       -0.391470
+Kurtosis        0.206404
+
+$m_avg_intel
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         2.625000
+Maximum         8.666667
+1. Quartile     5.571429
+3. Quartile     7.071429
+Mean            6.272111
+Median          6.357143
+Sum         18019.776023
+SE Mean         0.020565
+LCL Mean        6.231788
+UCL Mean        6.312435
+Variance        1.215021
+Stdev           1.102280
+Skewness       -0.314779
+Kurtosis       -0.399306
+
+$m_avg_amb
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         3.800000
+Maximum         9.000000
+1. Quartile     6.400000
+3. Quartile     7.500000
+Mean            6.964637
+Median          6.944444
+Sum         20009.401133
+SE Mean         0.014275
+LCL Mean        6.936647
+UCL Mean        6.992627
+Variance        0.585437
+Stdev           0.765138
+Skewness       -0.087428
+Kurtosis        0.022231
+
+$m_avg_like
+                 X...X.i
+nobs         2873.000000
+NAs             0.000000
+Minimum         2.333333
+Maximum         8.300000
+1. Quartile     5.368421
+3. Quartile     6.666667
+Mean            5.987613
+Median          6.000000
+Sum         17202.411594
+SE Mean         0.016376
+LCL Mean        5.955502
+UCL Mean        6.019723
+Variance        0.770491
+Stdev           0.877776
+Skewness       -0.270474
+Kurtosis        0.381237
+
+$match
+                X...X.i
+nobs        2873.000000
+NAs            0.000000
+Minimum        0.000000
+Maximum        1.000000
+1. Quartile    0.000000
+3. Quartile    0.000000
+Mean           0.165332
+Median         0.000000
+Sum          475.000000
+SE Mean        0.006932
+LCL Mean       0.151741
+UCL Mean       0.178924
+Variance       0.138046
+Stdev          0.371545
+Skewness       1.800865
+Kurtosis       1.243547
+
+
+Rattle timestamp: 2017-04-16 23:31:54 VJ
+======================================================================

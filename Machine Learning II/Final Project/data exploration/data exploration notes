@@ -1,0 +1,33 @@
+given a pair and all their information -except ratings for each other- will they be a match
+
+
+Baseline stats
+	percent of dataset where match occured - 16.44%
+	*this means we will need to create a model with a priority on low type II error
+	*especially since we can realisitcally get ~85% accuracy by telling a person they wont match
+	*need high accuracy on matching people
+
+
+Drop all f_rate_m and m_rate_f columns.
+
+Eigenvalue PCA
+	-f_oppgender_pref_attr correlated with f_genderpref_attr
+	-likewise with male counterparts
+	-variables on opposing axes
+
+
+Most people seem to not be able to honestly rate themselves
+
+
+
+Parameters for ADA Boost Tree Model
+420 Trees
+30 Max Depth
+Min Split 10
+Complexity 0.0250
+
+Rationale - Build many trees, allow them to get deep and have nodes splits based on smaller requirements. However, set complexity high so that there is a limit to the complexity and trees are different. The difference of the trees built helps coax out better guesses.
+
+For a 50/15/35 T/V/Test split, with Male Dec given, the AdaBoost Tree with specs listed gives 6% test error with 80% power on guessing a match on the dataset without racial information, age or categorical variables considered.
+
+For a 50/15/35 T/V/Test split with Female Dec given, the AdaBoost Tree with specs listed gives 10% test error with 70% power on guessing a match on the dataset without racial information, age or categorical variables considered.
